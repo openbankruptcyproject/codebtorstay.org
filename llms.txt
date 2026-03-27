@@ -2,7 +2,7 @@
 
 > Guide to the codebtor stay under 11 U.S.C. Section 1301 -- protection for cosigners in Chapter 13.
 
-codebtorstay.org is a free, open-source educational resource about codebtor stay protections in bankruptcy. Part of the Bankruptcy Transparency Network.
+codebtorstay.org is a free, open-source educational resource about codebtor stay protections in bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
