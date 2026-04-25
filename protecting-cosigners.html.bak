@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>When the Codebtor Stay Can Be Lifted - Co-Debtor Stay</title>
-<meta content="Learn about when the codebtor stay can be lifted | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and practical ... [Co-Debtor Stay]" name="description"/>
+<title>How to Protect Your Cosigner in Chapter 13 - Co-Debtor Stay</title>
+<meta content="Learn about how to protect your cosigner in chapter 13 | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and prac... [Co-Debtor Stay]" name="description"/>
 <meta content="the co-debtor stay, bankruptcy, codebtorstay" name="keywords"/>
-<link href="https://codebtorstay.org/lifting-the-stay.html" rel="canonical"/>
+<link href="https://codebtorstay.org/protecting-cosigners.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="When the Codebtor Stay Can Be Lifted - Co-Debtor Stay" property="og:title"/>
-<meta content="Learn about when the codebtor stay can be lifted | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and practical ... [Co-Debtor Stay]" property="og:description"/>
+<meta content="How to Protect Your Cosigner in Chapter 13 - Co-Debtor Stay" property="og:title"/>
+<meta content="Learn about how to protect your cosigner in chapter 13 | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and prac... [Co-Debtor Stay]" property="og:description"/>
 <meta content="website" property="og:type"/>
-<meta content="https://codebtorstay.org/lifting-the-stay.html" property="og:url"/>
+<meta content="https://codebtorstay.org/protecting-cosigners.html" property="og:url"/>
 <meta content="codebtorstay.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="When the Codebtor Stay Can Be Lifted - Co-Debtor Stay" name="twitter:title"/>
-<meta content="Learn about when the codebtor stay can be lifted | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and practical ... [Co-Debtor Stay]" name="twitter:description"/>
+<meta content="How to Protect Your Cosigner in Chapter 13 - Co-Debtor Stay" name="twitter:title"/>
+<meta content="Learn about how to protect your cosigner in chapter 13 | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and prac... [Co-Debtor Stay]" name="twitter:description"/>
 <meta content="https://codebtorstay.org/og-image.svg" property="og:image"/>
 <meta content="https://codebtorstay.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -79,12 +79,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://codebtorstay.org/lifting-the-stay.html"
+      "mainEntityOfPage": "https://codebtorstay.org/protecting-cosigners.html"
     },
     {
       "@type": "WebPage",
       "name": "The Co-Debtor Stay",
-      "url": "https://codebtorstay.org/lifting-the-stay.html",
+      "url": "https://codebtorstay.org/protecting-cosigners.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -175,29 +175,8 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the automatic stay in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "Can a creditor violate the automatic stay?", "acceptedAnswer": {"@type": "Answer", "text": "Creditors who violate the automatic stay can be held in contempt of court. You may recover actual damages, attorney fees, and in some cases punitive damages. Common violations include continued collection calls, repossessing property, or proceeding with a lawsuit after notice of the filing."}}, {"@type": "Question", "name": "How long does the automatic stay last?", "acceptedAnswer": {"@type": "Answer", "text": "The stay lasts until the bankruptcy case is closed, dismissed, or the debtor receives a discharge. If you filed a previous case that was dismissed within the past year, the stay may only last 30 days unless you file a motion to extend it."}}, {"@type": "Question", "name": "Does the automatic stay stop eviction?", "acceptedAnswer": {"@type": "Answer", "text": "The stay temporarily stops most evictions, but landlords can request relief from stay. If the landlord already obtained a judgment for possession before you filed, the stay may not apply at all. The protection is limited and temporary in most eviction situations."}}, {"@type": "Question", "name": "What should I know before filing bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy is a legal process that can eliminate or restructure debts, but it has lasting effects on your credit and financial life. Before filing, understand which debts can be discharged, what property you can keep through exemptions, and which chapter fits your situation."}}]}
 </script>
-<link href="https://codebtorstay.org/lifting-the-stay.html" hreflang="en" rel="alternate"/>
-<link href="https://codebtorstay.org/lifting-the-stay-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://codebtorstay.org/protecting-cosigners.html" hreflang="en" rel="alternate"/>
+<link href="https://codebtorstay.org/protecting-cosigners-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -207,8 +186,8 @@
 <div class="nav-links">
 <a href="/">Home</a>
 <a href="/who-is-protected.html">Who's Protected</a>
-<a href="/protecting-cosigners.html">Cosigners</a>
-<a class="active" href="/lifting-the-stay.html">Lifting the Stay</a>
+<a class="active" href="/protecting-cosigners.html">Cosigners</a>
+<a href="/lifting-the-stay.html">Lifting the Stay</a>
 <a href="/how-it-works.html">How It Works</a>
 <a href="/chapter-7-vs-13.html">Ch.7 vs Ch.13</a>
 </div>
@@ -222,18 +201,22 @@
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>Three Grounds for Relief</h2>
-<p>Section 1301(c) allows creditors to seek relief on three grounds: (1) the codebtor received the consideration, (2) the plan does not propose to pay the claim, (3) the creditor would be irreparably harmed.</p>
-<p>The creditor must file a motion. The court holds a hearing within 20 days. The burden of proof is on the creditor.</p>
+<h2>Pay the Claim in Full</h2>
+<p>Propose a plan that pays the codebtor claim 100%. This is the most effective protection. The creditor has no basis to seek relief from the stay.</p>
 </div>
 <div class="content-section">
-<h2>Protecting Against Relief</h2>
-<p>The best defense is a plan that pays the codebtor claim in full. If the plan provides 100% payment, the creditor has no basis for relief.</p>
-<p>Even if the plan pays less than 100%, you can argue that modification is possible or that the codebtor did not receive the consideration.</p>
+<h2>Communicate with Your Cosigner</h2>
+<p>Your cosigner should know you are filing. They may receive court notices. If they understand the codebtor stay protects them, they will not panic.</p>
+<p>If your case is dismissed, the codebtor stay lifts immediately. Your cosigner becomes fully exposed to collection.</p>
+</div>
+<div class="content-section">
+<h2>What If the Case Fails?</h2>
+<p><a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a>: codebtor stay evaporates. Creditors can pursue your cosigner for the full balance.</p>
+<p>Conversion to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>: codebtor stay also lifts. Section 1301 only applies in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>.</p>
 </div>
 <div class="cta-box">
-<p>Learn more about <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plans</p>
-<a class="btn" href="https://chapter13plan.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Chapter 13 Plan Guide</a>
+<p>Check your filing eligibility</p>
+<a class="btn" href="https://1328f.com?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -347,7 +330,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

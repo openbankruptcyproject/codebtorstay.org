@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Codebtor Protection in Chapter 7 vs. Chapter 13 - Co-Debtor Stay</title>
-<meta content="Learn about codebtor protection in chapter 7 vs. chapter 13 | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and... [Co-Debtor Stay]" name="description"/>
-<meta content="codebtor protection chapter 7 vs chapter 13, cosigner bankruptcy chapter 7, cosigner protection chapter 13, codebtor stay comparison" name="keywords"/>
-<link href="https://codebtorstay.org/chapter-7-vs-13.html" rel="canonical"/>
+<title>Creditor Motion for Relief from the Codebtor Stay - Section 1301(c) - Co-Debtor Stay</title>
+<meta content="Learn how creditors can seek relief from the codebtor stay under Section 1301(c). Three statutory grounds, how to respond, and what happe... [Co-Debtor Stay]" name="description"/>
+<meta content="creditor motion relief codebtor stay 1301, relief from codebtor stay, 1301(c) bankruptcy, codebtor stay lifted" name="keywords"/>
+<link href="https://codebtorstay.org/relief-from-codebtor-stay.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="Codebtor Protection in Chapter 7 vs. Chapter 13 - Co-Debtor Stay" property="og:title"/>
-<meta content="Learn about codebtor protection in chapter 7 vs. chapter 13 | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and... [Co-Debtor Stay]" property="og:description"/>
+<meta content="Creditor Motion for Relief from the Codebtor Stay - Section 1301(c) - Co-Debtor Stay" property="og:title"/>
+<meta content="Learn how creditors can seek relief from the codebtor stay under Section 1301(c). Three statutory grounds, how to respond, and what happe... [Co-Debtor Stay]" property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://codebtorstay.org/chapter-7-vs-13.html" property="og:url"/>
+<meta content="https://codebtorstay.org/relief-from-codebtor-stay.html" property="og:url"/>
 <meta content="codebtorstay.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Codebtor Protection in Chapter 7 vs. Chapter 13 - Co-Debtor Stay" name="twitter:title"/>
-<meta content="Learn about codebtor protection in chapter 7 vs. chapter 13 | codebtorstay.org in our free 2026 guide. Clear explanations, real data, and... [Co-Debtor Stay]" name="twitter:description"/>
+<meta content="Creditor Motion for Relief from the Codebtor Stay - Section 1301(c) - Co-Debtor Stay" name="twitter:title"/>
+<meta content="Learn how creditors can seek relief from the codebtor stay under Section 1301(c). Three statutory grounds, how to respond, and what happe... [Co-Debtor Stay]" name="twitter:description"/>
 <meta content="https://codebtorstay.org/og-image.svg" property="og:image"/>
 <meta content="https://codebtorstay.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -60,8 +60,8 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Chapter 7 vs. Chapter 13",
-      "item": "https://codebtorstay.org/chapter-7-vs-13.html"
+      "name": "Relief from Codebtor Stay",
+      "item": "https://codebtorstay.org/relief-from-codebtor-stay.html"
     }
   ]
 }
@@ -74,34 +74,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does Chapter 7 bankruptcy protect my cosigner?",
+      "name": "What are the three grounds for lifting the codebtor stay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Chapter 7 does not have a codebtor stay. When you file Chapter 7, you receive an automatic stay that protects you from creditors, but your cosigner gets no protection. The creditor is free to pursue your cosigner for the full amount of the debt immediately after you file, and your Chapter 7 discharge eliminates only your personal liability - not the cosigner's."
+        "text": "Under 11 U.S.C. Section 1301(c), a creditor can seek relief from the codebtor stay on three grounds: (1) the codebtor received the consideration for the claim, meaning the codebtor was the actual beneficiary of the loan proceeds; (2) the debtor's plan does not propose to pay the claim in full; or (3) the creditor's interest would be irreparably harmed by continuation of the stay."
       }
     },
     {
       "@type": "Question",
-      "name": "Is the codebtor stay the main reason to choose Chapter 13 over Chapter 7?",
+      "name": "How long does the court have to rule on a motion for relief from the codebtor stay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The codebtor stay is one of several important reasons to choose Chapter 13, but it depends on your situation. If you have significant cosigned consumer debts and want to protect your cosigners, Chapter 13 is often the better choice. Other reasons to choose Chapter 13 include the ability to cure mortgage arrears, strip junior liens, and keep non-exempt property."
+        "text": "Under Section 1301(d), the court must rule on the motion within 20 days after the motion is filed, unless the debtor or codebtor files a written objection. If an objection is filed, the court will schedule a hearing. In practice, courts typically schedule a hearing within 30 to 60 days of the motion being filed."
       }
     },
     {
       "@type": "Question",
-      "name": "What happens to my cosigner if my Chapter 13 case is converted to Chapter 7?",
+      "name": "Can the codebtor stay be lifted partially?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If your Chapter 13 case is converted to Chapter 7, the codebtor stay under Section 1301 terminates immediately. Your cosigner loses all protection and the creditor can begin collection activity against them right away. This is an important risk to consider before requesting or consenting to conversion."
+        "text": "Yes. The court can grant partial relief from the codebtor stay. For example, if the plan proposes to pay 75% of the cosigned claim, the court could lift the codebtor stay only with respect to the remaining 25%. This allows the creditor to pursue the cosigner for the unpaid portion while the rest of the claim is paid through the plan."
       }
     },
     {
       "@type": "Question",
-      "name": "Can my cosigner file their own bankruptcy if Chapter 7 does not protect them?",
+      "name": "What can I do if a creditor files a motion to lift the codebtor stay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. If your Chapter 7 discharge leaves your cosigner exposed to collection on the cosigned debt, the cosigner can file their own bankruptcy case - either Chapter 7 or Chapter 13 - to address their own liability. However, this requires the cosigner to meet all eligibility requirements for the chapter they choose to file."
+        "text": "You can file a written objection to the motion. Common defenses include showing that your plan proposes to pay the claim in full, that the codebtor did not receive the consideration for the loan, or that the creditor will not be irreparably harmed. You can also propose modifying your plan to increase payment on the cosigned claim. Filing an objection triggers a hearing where both sides present their arguments."
       }
     }
   ]
@@ -113,8 +113,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Codebtor Protection: Chapter 7 vs. Chapter 13",
-      "description": "Compare codebtor protection in Chapter 7 vs Chapter 13 bankruptcy. Chapter 7 has no codebtor stay. Chapter 13 automatically protects cosigners under Section 130",
+      "headline": "Relief from the Codebtor Stay",
+      "description": "Learn how creditors can seek relief from the codebtor stay under Section 1301(c). Three statutory grounds, how to respond, and what happens if the court grants ",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -126,68 +126,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://codebtorstay.org/chapter-7-vs-13.html"
+      "mainEntityOfPage": "https://codebtorstay.org/relief-from-codebtor-stay.html"
     },
     {
       "@type": "HowTo",
-      "name": "Codebtor Protection: Chapter 7 vs. Chapter 13",
+      "name": "Relief from the Codebtor Stay",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nCodebtor Protection in Chapter 7 vs. Chapter 13 "
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nCreditor Motion for Relief from the Codebtor Sta"
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "Creditors shift to the cosigner. Because the automatic stay does not extend to cosigners in Chapter 7, the creditor is free to begin or continue collection against the cosigner immediately. There is n"
+          "text": "The codebtor is wasting or disposing of assets that could be used to pay the claim"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "You receive your discharge. Typically 60 to 90 days after filing, you receive a Chapter 7 discharge that eliminates your personal liability on the discharged debts. But the discharge is personal to yo"
+          "text": "The debtor's plan is unlikely to succeed, leaving the creditor without any recovery if the codebtor stay remains in place until the case is eventually dismissed"
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "The cosigner owes the full amount. After your discharge, the creditor cannot collect from you, but the cosigner remains liable for the entire debt. The creditor can sue the cosigner, garnish their wag"
+          "text": "Significant delay in the case that extends the period during which the creditor cannot collect from the codebtor"
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "You file the petition. Both the automatic stay (Section 362) and the codebtor stay (Section 1301) take effect immediately. You and your cosigners are both protected."
+          "text": "File a written objection within 20 days. This is mandatory. If no objection is filed, the court must grant the creditor's request. The objection preserves your right to a hearing."
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "Your plan addresses the cosigned debt. You propose a Chapter 13 plan that classifies the cosigned debt separately and pays it at 100% (or whatever amount you can afford). The creditor receives regular"
+          "text": "Address the specific ground cited. If the creditor relies on Ground 2 (plan does not pay the claim), consider modifying your plan to propose 100% payment. If the creditor relies on Ground 1, prepare e"
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "The codebtor stay lasts throughout the case. For the entire 3-to-5-year plan period, the creditor cannot pursue the cosigner as long as the codebtor stay is in effect and the plan is being followed."
+          "text": "Propose adequate protection. If you cannot pay the claim at 100%, consider what alternatives you can offer - such as direct payments by the codebtor to cover the shortfall, or an increased plan payme"
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "If the plan pays 100%, the cosigner is free. When you complete your plan and the cosigned debt has been paid in full, the cosigner owes nothing. Both you and the cosigner walk away from the debt."
+          "text": "Attend the hearing. Present your case to the court. Bring evidence of your plan payments, your budget, and any facts that undermine the creditor's motion."
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "You have significant cosigned consumer debts. If a parent, spouse, friend, or family member cosigned a car loan, private student loan, personal loan, or credit card, Chapter 13 is the only way to prot"
+          "text": "Send collection letters and make collection calls to the codebtor"
         },
         {
           "@type": "HowToStep",
           "position": 10,
-          "text": "The cosigner cannot afford to pay. If your cosigner is also in financial difficulty, exposing them to collection through a Chapter 7 filing could push them into their own financial crisis or even thei"
+          "text": "File a lawsuit against the codebtor in state court"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Codebtor Protection: Chapter 7 vs. Chapter 13",
-      "url": "https://codebtorstay.org/chapter-7-vs-13.html",
+      "name": "Relief from the Codebtor Stay",
+      "url": "https://codebtorstay.org/relief-from-codebtor-stay.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -251,14 +251,9 @@
   .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .green-box p { margin-bottom: 0.5rem; }
   .green-box p:last-child { margin-bottom: 0; }
-  .red-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
-  .red-box p { margin-bottom: 0.5rem; }
-  .red-box p:last-child { margin-bottom: 0; }
-  .comparison-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
-  .comparison-table th, .comparison-table td { padding: 0.75rem 1rem; text-align: left; border: 1px solid var(--border); }
-  .comparison-table th { background: #21262d; color: #f0f6fc; font-weight: 600; }
-  .comparison-table td { color: var(--text); }
-  .comparison-table tr:nth-child(even) td { background: rgba(22, 27, 34, 0.5); }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -286,33 +281,10 @@
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
-    .comparison-table { font-size: 0.8rem; }
-    .comparison-table th, .comparison-table td { padding: 0.5rem; }
   }
 </style>
-<link href="https://codebtorstay.org/chapter-7-vs-13.html" hreflang="en" rel="alternate"/>
-<link href="https://codebtorstay.org/chapter-7-vs-13-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://codebtorstay.org/relief-from-codebtor-stay.html" hreflang="en" rel="alternate"/>
+<link href="https://codebtorstay.org/relief-from-codebtor-stay-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -325,156 +297,117 @@
 <a href="/protecting-cosigners.html">Cosigners</a>
 <a href="/lifting-the-stay.html">Lifting the Stay</a>
 <a href="/how-it-works.html">How It Works</a>
-<a class="active" href="/chapter-7-vs-13.html">Ch.7 vs Ch.13</a>
+<a href="/chapter-7-vs-13.html">Ch.7 vs Ch.13</a>
 </div>
 </nav>
 <header>
-<h1>Codebtor Protection: <span class="accent">Chapter 7 vs. Chapter 13</span></h1>
-<p class="subtitle">Chapter 7 offers no cosigner protection. Chapter 13 does. This difference changes everything.</p>
+<h1><span class="accent">Relief from</span> the Codebtor Stay</h1>
+<p class="subtitle">How creditors can ask the court to lift Section 1301 protection under three statutory grounds</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Codebtor Stay</a> › Chapter 7 vs. Chapter 13
+<a href="https://1328f.com/">Network</a> › <a href="/">Codebtor Stay</a> › Relief from Codebtor Stay
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>The Fundamental Difference</h2>
-<p>When it comes to protecting the people who cosigned your debts, the choice between <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy could not be more consequential. This is not a minor technical distinction - it is one of the most important practical differences between the two chapters.</p>
-<p><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> has no codebtor stay.</strong> When you file Chapter 7, the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> protects you from creditors. But your cosigners, co-borrowers, and guarantors receive zero protection. The creditor can - and often will - immediately shift its collection efforts to the cosigner the moment your Chapter 7 case is filed.</p>
-<p><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> has an automatic codebtor stay.</strong> Under 11 U.S.C. Section 1301, when you file Chapter 13, creditors are automatically prohibited from taking any collection action against individuals who are also liable on your consumer debts. This protection lasts for the entire duration of your Chapter 13 case - typically three to five years.</p>
+<h2>When the Codebtor Stay Can Be Lifted</h2>
+<p>The codebtor stay under 11 U.S.C. Section 1301 is not absolute. Congress included three specific grounds in Section 1301(c) on which a creditor can ask the bankruptcy court to terminate, annul, or modify the codebtor stay. If the creditor files a motion and demonstrates one of these grounds, the court can grant relief - allowing the creditor to pursue the codebtor directly.</p>
+<p>Understanding these three grounds is essential for any debtor who wants to protect a cosigner. It is equally important for cosigners who want to know when their protection might end and what they can do about it.</p>
 </div>
 <div class="content-section">
-<h2>Side-by-Side Comparison</h2>
-<div style="overflow-x:auto">
-<table class="comparison-table">
-<thead>
-<tr>
-<th scope="col">Feature</th>
-<th scope="col">Chapter 7</th>
-<th scope="col">Chapter 13</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Codebtor stay</td>
-<td>None</td>
-<td>Automatic under Section 1301</td>
-</tr>
-<tr>
-<td>Cosigner protection</td>
-<td>Cosigner fully exposed to collection</td>
-<td>Cosigner protected during the case</td>
-</tr>
-<tr>
-<td>Effect of <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> on cosigner</td>
-<td><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> eliminates your liability only; cosigner still owes full amount</td>
-<td>If plan pays cosigned debt at 100%, cosigner owes nothing after completion</td>
-</tr>
-<tr>
-<td>Duration of protection</td>
-<td>No protection period</td>
-<td>3 to 5 years (plan duration)</td>
-</tr>
-<tr>
-<td>Consumer debt requirement</td>
-<td>Not applicable (no codebtor stay)</td>
-<td>Codebtor stay applies only to consumer debts</td>
-</tr>
-<tr>
-<td>Creditor collection during case</td>
-<td>Creditor can pursue cosigner immediately</td>
-<td>Creditor must seek court relief under 1301(c)</td>
-</tr>
-<tr>
-<td>Ability to pay cosigned debt</td>
-<td>No mechanism to pay through the case</td>
-<td>Plan can classify and pay cosigned debts at 100%</td>
-</tr>
-<tr>
-<td>Case duration</td>
-<td>3 to 6 months</td>
-<td>3 to 5 years</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div class="content-section">
-<h2>What Happens to Cosigners in Chapter 7</h2>
-<p>When you file Chapter 7, here is what typically happens to your cosigners:</p>
-<ol>
-<li><strong>You file the petition.</strong> The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> immediately protects you - but only you - from all collection activity.</li>
-<li><strong>Creditors shift to the cosigner.</strong> Because the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> does not extend to cosigners in Chapter 7, the creditor is free to begin or continue collection against the cosigner immediately. There is no waiting period and no court approval needed.</li>
-<li><strong>You receive your discharge.</strong> Typically 60 to 90 days after filing, you receive a Chapter 7 discharge that eliminates your personal liability on the discharged debts. But the discharge is personal to you - it does not affect the cosigner's obligation.</li>
-<li><strong>The cosigner owes the full amount.</strong> After your discharge, the creditor cannot collect from you, but the cosigner remains liable for the entire debt. The creditor can sue the cosigner, garnish their wages, and take other collection action.</li>
-</ol>
-<div class="red-box">
-<p><strong>The Chapter 7 cosigner problem.</strong> Filing Chapter 7 can actually make things worse for cosigners. Before you filed, the creditor could pursue both you and the cosigner. After your Chapter 7 discharge, the creditor can only pursue the cosigner - making them the sole target. Many cosigners first learn they are being held responsible when they receive a collection letter or lawsuit after the primary borrower's Chapter 7 discharge.</p>
-</div>
-</div>
-<div class="content-section">
-<h2>What Happens to Cosigners in Chapter 13</h2>
-<p>Chapter 13 tells a very different story:</p>
-<ol>
-<li><strong>You file the petition.</strong> Both the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> (<a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" target="_blank">Section 362</a>) and the codebtor stay (Section 1301) take effect immediately. You and your cosigners are both protected.</li>
-<li><strong>Your plan addresses the cosigned debt.</strong> You propose a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> that classifies the cosigned debt separately and pays it at 100% (or whatever amount you can afford). The creditor receives regular payments through the Chapter 13 trustee.</li>
-<li><strong>The codebtor stay lasts throughout the case.</strong> For the entire 3-to-5-year plan period, the creditor cannot pursue the cosigner as long as the codebtor stay is in effect and the plan is being followed.</li>
-<li><strong>If the plan pays 100%, the cosigner is free.</strong> When you complete your plan and the cosigned debt has been paid in full, the cosigner owes nothing. Both you and the cosigner walk away from the debt.</li>
-</ol>
+<h2>Ground 1: The Codebtor Received the Consideration</h2>
+<p>Section 1301(c)(1) allows relief when "as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor."</p>
+<p>In plain language, this means the codebtor was actually the person who benefited from the loan. The "cosigner" was really the primary user of the funds, and the debtor was the one helping them get the loan.</p>
+<h3>How this plays out in practice</h3>
+<p>Consider this scenario: a father cosigns a car loan for his daughter. The daughter files <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy. The codebtor stay would normally protect the father. But if the evidence shows that the father was actually the one driving the car and making the payments - that the daughter only signed the loan to help the father qualify - then the creditor could argue that the father "received the consideration" and should not be protected by his daughter's bankruptcy.</p>
+<p>Courts look at who actually received and used the loan proceeds, not just whose name is on the loan documents. If the codebtor was the true beneficiary, the court is likely to grant relief under this ground.</p>
 <div class="green-box">
-<p><strong>This is why Chapter 13 exists.</strong> The codebtor stay was specifically designed to address the problem of cosigner exposure in bankruptcy. Congress recognized that allowing debtors to restructure their debts through a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> - while simultaneously protecting the people who signed for them - serves the interests of debtors, cosigners, and creditors alike.</p>
+<p><strong>Key point.</strong> This ground targets situations where the roles are reversed - where the person who filed bankruptcy was really the cosigner, and the "codebtor" was really the primary borrower. If both parties genuinely co-benefited from the loan (such as a joint credit card used by both spouses), this ground is harder for the creditor to establish.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>When to Choose Chapter 13 for Cosigner Protection</h2>
-<p>Consider Chapter 13 over Chapter 7 when:</p>
+<h2>Ground 2: The Plan Does Not Propose Full Payment</h2>
+<p>Section 1301(c)(2) allows relief when "the plan filed by the debtor proposes not to pay such claim."</p>
+<p>This is the most commonly litigated ground for relief from the codebtor stay. If the debtor's <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> does not propose to pay the cosigned claim at 100 cents on the dollar, the creditor can argue that it should be allowed to pursue the codebtor for the unpaid portion.</p>
+<h3>What counts as "not paying" the claim</h3>
+<p>Courts interpret this provision broadly. It does not just apply to situations where the plan pays $0 on the claim. If the plan proposes to pay 60% of the cosigned claim, the creditor can seek relief for the remaining 40%. If the plan proposes to pay the claim over 60 months but the creditor is entitled to interest that the plan does not include, the creditor may argue that the plan does not fully pay the claim.</p>
+<h3>Partial relief</h3>
+<p>Under this ground, the court often grants partial relief rather than lifting the codebtor stay entirely. If the plan pays 75% of the claim, the court may lift the codebtor stay only with respect to the remaining 25%. This means the creditor can pursue the codebtor for 25% of the debt but must wait for the plan to pay the other 75%.</p>
+<div class="warning-box">
+<p><strong>This is the biggest risk for cosigners.</strong> If you file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> and your plan does not propose 100% payment of a cosigned debt, the creditor has a straightforward basis to seek relief from the codebtor stay. The best defense is a plan that pays the cosigned claim in full.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Ground 3: Irreparable Harm to the Creditor</h2>
+<p>Section 1301(c)(3) allows relief when "such creditor's interest would be irreparably harmed by continuation of such stay."</p>
+<p>This is the broadest and most fact-specific ground. The creditor must demonstrate that its interest will be irreparably harmed if the codebtor stay continues. Courts generally require the creditor to show more than just inconvenience or delay - the harm must be genuine and not adequately compensable through the plan.</p>
+<h3>What constitutes irreparable harm</h3>
+<p>Examples that courts have considered:</p>
 <ul>
-<li><strong>You have significant cosigned consumer debts.</strong> If a parent, spouse, friend, or family member cosigned a car loan, private <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a>, personal loan, or credit card, Chapter 13 is the only way to protect them through the bankruptcy process.</li>
-<li><strong>The cosigner cannot afford to pay.</strong> If your cosigner is also in financial difficulty, exposing them to collection through a Chapter 7 filing could push them into their own financial crisis or even their own bankruptcy.</li>
-<li><strong>You want to preserve the relationship.</strong> Filing Chapter 7 and leaving a cosigner holding the bag can destroy personal relationships. Chapter 13 allows you to take responsibility for the debt through the plan while keeping the cosigner safe.</li>
-<li><strong>You can afford the plan payments.</strong> Chapter 13 requires regular monthly payments for 3 to 5 years. If your income supports these payments, Chapter 13 may be the responsible choice when cosigners are involved.</li>
+<li>The collateral securing the debt is depreciating rapidly and the creditor needs to pursue the codebtor to protect its security interest</li>
+<li>The codebtor is wasting or disposing of assets that could be used to pay the claim</li>
+<li>The debtor's plan is unlikely to succeed, leaving the creditor without any recovery if the codebtor stay remains in place until the case is eventually dismissed</li>
+<li>Significant delay in the case that extends the period during which the creditor cannot collect from the codebtor</li>
 </ul>
+<p>This ground is harder for creditors to establish because most harms can be addressed through the plan or through other bankruptcy mechanisms. Courts are generally reluctant to grant relief on this ground alone unless the circumstances are compelling.</p>
 </div>
 <div class="content-section">
-<h2>When Chapter 7 Might Still Be the Right Choice</h2>
-<p>Despite the lack of cosigner protection, Chapter 7 may still make sense in certain situations:</p>
+<h2>The Motion Process</h2>
+<h3>Filing the motion</h3>
+<p>A creditor seeking relief from the codebtor stay must file a written motion with the bankruptcy court. The motion must identify the codebtor, describe the debt, and specify which ground or grounds under Section 1301(c) the creditor relies on. The motion must be served on the debtor, the debtor's attorney (if any), the codebtor, and the Chapter 13 trustee.</p>
+<h3>The 20-day rule</h3>
+<p>Section 1301(d) provides an important procedural safeguard: if no party in interest - the debtor or the codebtor - files a written objection within 20 days after the motion is served, the court "shall" grant such relief as requested by the creditor. In other words, failing to respond means the codebtor stay will be lifted by default.</p>
+<h3>The hearing</h3>
+<p>If the debtor or codebtor files a timely objection, the court will schedule a hearing. At the hearing, the creditor bears the burden of proving that one of the three statutory grounds exists. The debtor and codebtor can present evidence and arguments in opposition.</p>
+<h3>The court's decision</h3>
+<p>The court has broad discretion in fashioning relief. It can deny the motion entirely, grant full relief (lifting the codebtor stay completely), or grant partial relief (lifting the stay only to the extent of the unpaid portion of the claim). The court can also condition relief on certain events, such as giving the debtor time to modify the plan to provide for full payment.</p>
+</div>
+<div class="content-section">
+<h2>How to Respond to a Motion for Relief</h2>
+<p>If a creditor files a <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from the codebtor stay, time is critical. Here are the key steps:</p>
+<ol>
+<li><strong>File a written objection within 20 days.</strong> This is mandatory. If no objection is filed, the court must grant the creditor's request. The objection preserves your right to a hearing.</li>
+<li><strong>Address the specific ground cited.</strong> If the creditor relies on Ground 2 (plan does not pay the claim), consider modifying your plan to propose 100% payment. If the creditor relies on Ground 1, prepare evidence showing who actually benefited from the loan proceeds.</li>
+<li><strong>Propose <a href="https://relieffromstay.org/" title="adequate protection">adequate protection</a>.</strong> If you cannot pay the claim at 100%, consider what alternatives you can offer - such as direct payments by the codebtor to cover the shortfall, or an increased plan payment that covers the full claim.</li>
+<li><strong>Attend the hearing.</strong> Present your case to the court. Bring evidence of your plan payments, your budget, and any facts that undermine the creditor's motion.</li>
+</ol>
+</div>
+<div class="content-section">
+<h2>What Happens If Relief Is Granted</h2>
+<p>If the court grants relief from the codebtor stay, the creditor can pursue the codebtor directly for the amount specified in the court's order. This means the creditor can:</p>
 <ul>
-<li><strong>No cosigned debts.</strong> If none of your debts have cosigners, the codebtor stay is irrelevant to your decision.</li>
-<li><strong>The cosigner can handle the debt.</strong> If the cosigner has the financial resources to pay the debt and is willing to do so, Chapter 7's faster timeline and simpler process may be preferable.</li>
-<li><strong>You cannot afford Chapter 13 payments.</strong> If your income is too low to fund a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>, Chapter 7 may be your only realistic option regardless of cosigner concerns.</li>
-<li><strong>The cosigned debt is small.</strong> If the cosigned debt is a minor portion of your overall financial picture, the cosigner's exposure may be manageable without Chapter 13 protection.</li>
-<li><strong>The cosigner plans to file too.</strong> If the cosigner is also considering bankruptcy, both parties filing Chapter 7 may be simpler than one person filing Chapter 13.</li>
+<li>Send collection letters and make collection calls to the codebtor</li>
+<li>File a lawsuit against the codebtor in state court</li>
+<li>Garnish the codebtor's wages (subject to state <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a> laws)</li>
+<li>Place liens on the codebtor's property</li>
 </ul>
-</div>
-<div class="content-section">
-<h2>The Conversion Risk</h2>
-<p>One important risk to understand: if you file Chapter 13 and your case is later converted to Chapter 7, the codebtor stay terminates immediately. Conversion can happen for various reasons - failure to make plan payments, inability to propose a confirmable plan, or a change in financial circumstances.</p>
-<p>If your primary reason for choosing Chapter 13 is cosigner protection, it is critical to maintain plan payments and comply with all Chapter 13 requirements. A converted case loses the codebtor stay, and your cosigner would be in the same position as if you had filed Chapter 7 from the beginning.</p>
+<p>The codebtor still has all the defenses available under state law, including challenging the amount owed, asserting any applicable statute of limitations, or negotiating a settlement. The codebtor could also file their own bankruptcy case if their financial situation warrants it.</p>
+<p>Relief from the codebtor stay does not affect the debtor's own bankruptcy case. The debtor's <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> remains in effect, and the debtor's <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> continues to operate. Only the codebtor loses their Section 1301 protection.</p>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
 <div class="faq-item">
-<h3>Does Chapter 7 bankruptcy protect my cosigner?</h3>
-<p>No. Chapter 7 does not have a codebtor stay. When you file Chapter 7, you receive an <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> that protects you from creditors, but your cosigner gets no protection. The creditor is free to pursue your cosigner for the full amount of the debt immediately after you file, and your Chapter 7 discharge eliminates only your personal liability - not the cosigner's.</p>
+<h3>What are the three grounds for lifting the codebtor stay?</h3>
+<p>Under 11 U.S.C. Section 1301(c), a creditor can seek relief on three grounds: (1) the codebtor received the consideration for the claim, meaning the codebtor was the actual beneficiary of the loan proceeds; (2) the debtor's plan does not propose to pay the claim in full; or (3) the creditor's interest would be irreparably harmed by continuation of the stay.</p>
 </div>
 <div class="faq-item">
-<h3>Is the codebtor stay the main reason to choose Chapter 13 over Chapter 7?</h3>
-<p>The codebtor stay is one of several important reasons to choose Chapter 13, but it depends on your situation. If you have significant cosigned consumer debts and want to protect your cosigners, Chapter 13 is often the better choice. Other reasons to choose Chapter 13 include the ability to cure mortgage arrears, strip junior liens, and keep non-exempt property.</p>
+<h3>How long does the court have to rule on a motion for relief from the codebtor stay?</h3>
+<p>Under Section 1301(d), the court must rule on the motion within 20 days after the motion is filed, unless the debtor or codebtor files a written objection. If an objection is filed, the court will schedule a hearing. In practice, courts typically schedule a hearing within 30 to 60 days of the motion being filed.</p>
 </div>
 <div class="faq-item">
-<h3>What happens to my cosigner if my Chapter 13 case is converted to Chapter 7?</h3>
-<p>If your Chapter 13 case is converted to Chapter 7, the codebtor stay under Section 1301 terminates immediately. Your cosigner loses all protection and the creditor can begin collection activity against them right away. This is an important risk to consider before requesting or consenting to conversion.</p>
+<h3>Can the codebtor stay be lifted partially?</h3>
+<p>Yes. The court can grant partial relief from the codebtor stay. For example, if the plan proposes to pay 75% of the cosigned claim, the court could lift the codebtor stay only with respect to the remaining 25%. This allows the creditor to pursue the cosigner for the unpaid portion while the rest of the claim is paid through the plan.</p>
 </div>
 <div class="faq-item">
-<h3>Can my cosigner file their own bankruptcy if Chapter 7 does not protect them?</h3>
-<p>Yes. If your Chapter 7 discharge leaves your cosigner exposed to collection on the cosigned debt, the cosigner can file their own bankruptcy case - either Chapter 7 or Chapter 13 - to address their own liability. However, this requires the cosigner to meet all eligibility requirements for the chapter they choose to file.</p>
+<h3>What can I do if a creditor files a motion to lift the codebtor stay?</h3>
+<p>You can file a written objection to the motion within 20 days. Common defenses include showing that your plan proposes to pay the claim in full, that the codebtor did not receive the consideration for the loan, or that the creditor will not be irreparably harmed. You can also propose modifying your plan to increase payment on the cosigned claim.</p>
 </div>
 </div>
 <div class="cta-box">
 <h3>Check Your Bankruptcy Discharge Eligibility</h3>
-<p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.</p>
+<p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
 <div class="cta-links">
 <a class="primary-btn" href="https://1328f.com?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
-<a class="secondary-btn" href="https://whatischapter7.com?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">What Is Chapter 7?</a>
+<a class="secondary-btn" href="https://relieffromstay.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Relief from Stay</a>
 </div>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -496,13 +429,13 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://whatischapter7.com" style="color:#58a6ff">What Is Chapter 7?</a> - Understanding Chapter 7 liquidation bankruptcy</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://chapter13plan.org" style="color:#58a6ff">Chapter 13 Plans</a> - How Chapter 13 repayment plans work and get confirmed</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://727a8.com" style="color:#58a6ff">Section 727(a)(8)</a> - Timing bars on Chapter 7 discharge eligibility</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://relieffromstay.org" style="color:#58a6ff">Relief from Stay</a> - When and how creditors can lift the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://automaticstay.org" style="color:#58a6ff">The Automatic Stay</a> - How <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> stops creditor collection the moment you file</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://chapter13plan.org" style="color:#58a6ff">Chapter 13 Plans</a> - How Chapter 13 repayment plans work and get confirmed</p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
-<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on the automatic stay:</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>:</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 362</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - the statute that creates the automatic stay</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1301" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 1301</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - codebtor stay in Chapter 13</span></li>
@@ -561,14 +494,14 @@
 <a href="https://1328f.com?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
 <a href="https://1328f.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a>
 <a href="https://automaticstay.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
+<a href="https://relieffromstay.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">relieffromstay.org</a>
 <a href="https://codebtorstay.org">codebtorstay.org</a>
 <a href="https://chapter13plan.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">chapter13plan.org</a>
 <a href="https://whatischapter7.com?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.com</a>
-<a href="https://727a8.com?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=codebtorstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
