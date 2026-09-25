@@ -1,6 +1,6 @@
 # codebtorstay.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on codebtorstay.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Codebtor Protection in Chapter 7 vs. Chapter 13 - Co-Debtor Stay
+## Codebtor Stay in Chapter 7 vs Chapter 13 [2026]: 11 USC 1301 Applies Only in Chapter 13
 Source: https://codebtorstay.org/chapter-7-vs-13.html
 
 Skip to main content
@@ -28,6 +28,8 @@ Codebtor Protection: Chapter 7 vs. Chapter 13
 Chapter 7 offers no cosigner protection. Chapter 13 does. This difference changes everything.
 
 Network › Codebtor Stay › Chapter 7 vs. Chapter 13
+
+No. Chapter 7 does not have a codebtor stay. When you file Chapter 7, you receive an automatic stay that protects you from creditors, but your cosigner gets no protection. The creditor is free to pursue your cosigner for the full amount of the debt immediately after you file, and your Chapter 7 discharge eliminates only your personal liability - not the cosigner's.
 
 The Fundamental Difference
 
@@ -237,26 +239,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-codebtorstay.org
-chapter13plan.org
-whatischapter7.com
-727a8.com
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -270,15 +279,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Codebtor Stay and Community Property States - Co-Debtor Stay
+## Codebtor Stay in Community Property States [2026]: 11 USC 524(a)(3) and Phantom Discharge
 Source: https://codebtorstay.org/community-property.html
 
 Skip to main content
@@ -298,6 +307,8 @@ Codebtor Stay and Community Property
 Special protections for non-filing spouses in Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin
 
 Network › Codebtor Stay › Community Property
+
+Nine states use a community property system: Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin. Alaska allows couples to opt into community property treatment through a written agreement. In these states, most property and debts acquired during the marriage are considered jointly owned by both spouses.
 
 Community Property States
 
@@ -529,25 +540,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-codebtorstay.org
-dischargeinjunction.com
-chapter13plan.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -561,15 +580,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Protecting Your Cosigner in Chapter 13 Bankruptcy - Co-Debtor Stay
+## Cosigner Protection in Chapter 13 [2026]: 11 USC 1301(a) Consumer Debt Codebtor Stay
 Source: https://codebtorstay.org/cosigner-protection.html
 
 Skip to main content
@@ -589,6 +608,8 @@ Protecting Your Cosigner in Chapter 13
 How to use the codebtor stay and strategic plan design to shield the people who signed for you
 
 Network › Codebtor Stay › Cosigner Protection
+
+Yes. Chapter 13 is the only bankruptcy chapter that provides an automatic codebtor stay under 11 U.S.C. Section 1301. When you file Chapter 13, creditors cannot pursue your cosigner on consumer debts for the duration of the case. To fully protect your cosigner, your Chapter 13 plan should propose paying the cosigned debt at 100%.
 
 Why Cosigners Are at Risk
 
@@ -764,28 +785,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loan Forgiveness Programs -- studentloanforgive.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-codebtorstay.org
-chapter13plan.org
-whatischapter7.com
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -799,15 +825,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## How the Codebtor Stay Works in Chapter 13 - Section 1301 - Co-Debtor Stay
+## How the 1301 Codebtor Stay Works [2026]: Trigger, Scope, and Duration
 Source: https://codebtorstay.org/how-it-works.html
 
 Skip to main content
@@ -827,6 +853,8 @@ How the Codebtor Stay Works
 Section 1301 creates automatic protection for cosigners in Chapter 13 bankruptcy
 
 Network › Codebtor Stay › How It Works
+
+Yes. Under 11 U.S.C. Section 1301, the codebtor stay takes effect automatically the moment a Chapter 13 petition is filed. No separate motion or request is needed. It protects any individual who is also liable on a consumer debt listed in the bankruptcy schedules.
 
 What Is the Codebtor Stay?
 
@@ -1024,28 +1052,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-codebtorstay.org
-chapter13plan.org
-whatischapter7.com
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1059,9 +1092,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1070,7 +1103,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## Co-Debtor Stay in Chapter 13 - Section 1301 [2026]
 Source: https://codebtorstay.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -1084,13 +1117,15 @@ Lifting the Stay
 How It Works
 Ch.7 vs Ch.13
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Co-Debtor Stay in Chapter 13
 
 Section 1301 protection for co-signers in Chapter 13
 
 Network › The Co-Debtor Stay
+
+The codebtor stay under 11 U.S.C. Section 1301 protects non-debtor individuals who are co-liable on consumer debts with the Chapter 13 debtor. It prevents creditors from collecting from cosigners, co-borrowers, or guarantors while the Chapter 13 case is active.
 
 About This Site
 
@@ -1334,56 +1369,33 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1397,15 +1409,44 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
+
 ---
 
-## When the Codebtor Stay Can Be Lifted - Co-Debtor Stay
+## Lifting the Codebtor Stay [2026]: 11 USC 1301(c) Three-Pronged Relief Standard
 Source: https://codebtorstay.org/lifting-the-stay.html
 
 Skip to main content
@@ -1425,6 +1466,8 @@ The Co-Debtor Stay
 Section 1301 protection for co-signers in Chapter 13
 
 Network › The Co-Debtor Stay
+
+The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged.
 
 Three Grounds for Relief
 
@@ -1519,47 +1562,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1573,15 +1602,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## How to Protect Your Cosigner in Chapter 13 - Co-Debtor Stay
+## Protecting Cosigners in Chapter 13 [2026]: Pay-Through Plan and 1322(a)(3) Best Practice
 Source: https://codebtorstay.org/protecting-cosigners.html
 
 Skip to main content
@@ -1601,6 +1630,8 @@ The Co-Debtor Stay
 Section 1301 protection for co-signers in Chapter 13
 
 Network › The Co-Debtor Stay
+
+The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged.
 
 Pay the Claim in Full
 
@@ -1699,47 +1730,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1753,9 +1770,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1781,6 +1798,8 @@ Relief from the Codebtor Stay
 How creditors can ask the court to lift Section 1301 protection under three statutory grounds
 
 Network › Codebtor Stay › Relief from Codebtor Stay
+
+Under 11 U.S.C. Section 1301(c), a creditor can seek relief from the codebtor stay on three grounds: (1) the codebtor received the consideration for the claim, meaning the codebtor was the actual beneficiary of the loan proceeds; (2) the debtor's plan does not propose to pay the claim in full; or (3) the creditor's interest would be irreparably harmed by continuation of the stay.
 
 When the Codebtor Stay Can Be Lifted
 
@@ -1986,26 +2005,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-relieffromstay.org
-codebtorstay.org
-chapter13plan.org
-whatischapter7.com
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2019,15 +2045,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Who Does the Codebtor Stay Protect? - Co-Debtor Stay
+## Who the 1301 Codebtor Stay Protects [2026]: Consumer Debt Cosigners, Not Business Guarantors
 Source: https://codebtorstay.org/who-is-protected.html
 
 Skip to main content
@@ -2047,6 +2073,8 @@ The Co-Debtor Stay
 Section 1301 protection for co-signers in Chapter 13
 
 Network › The Co-Debtor Stay
+
+The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged.
 
 Cosigners on Consumer Debts
 
@@ -2141,47 +2169,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2195,9 +2209,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2259,7 +2273,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -2269,6 +2283,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About codebtorstay.org
+Source: https://codebtorstay.org/about.html
+
+codebtorstay.org
+
+Home
+About
+Privacy
+
+About codebtorstay.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+codebtorstay.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
